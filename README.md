@@ -30,5 +30,5 @@ It contains demographic and travel information for passengers aboard the Titanic
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/titanic-prediction.git
-   cd titanic-prediction
+   git clone https://github.com/WEILLLL889/Titanic---Machine-Learning-from-Disaster.git
+ 
